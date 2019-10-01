@@ -3,6 +3,9 @@
 #include <random>
 #include <vector>
 
+std::vector<int> v = {1, 2, 3};
+for (std::vector<int>::iterator v = v.begin(); v != v.end(); ++v) {
+}
 template <typename Iter, typename RandomGenerator>
 Iter select_randomly(Iter start, Iter end, RandomGenerator &g) {
   std::uniform_int_distribution<> dis(0, std::distance(start, end) - 1);
