@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/Users/knowledge/Developer/Tutorials/Cpp")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/Users/knowledge/Developer/Tutorials/Cpp")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/Users/knowledge/Developer/Tutorials/Cpp/build")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)

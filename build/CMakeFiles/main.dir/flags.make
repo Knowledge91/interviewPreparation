@@ -6,5 +6,5 @@ CXX_FLAGS =   -std=gnu++1z
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/knowledge/Developer/Tutorials/Cpp/./top_interview_questions_easy 
+CXX_INCLUDES = 
 

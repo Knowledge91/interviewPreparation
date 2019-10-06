@@ -1,5 +1,8 @@
 cmake_minimum_required (VERSION 2.6)
 project (Leetcode)
 set(CMAKE_CXX_STANDARD 17)
-include_directories("./top_interview_questions_easy")
-add_executable(main main.cpp)
+file(GLOB TOP_INTERVIEW_QUESTIONS_EASY_FILES
+    "./top_interview_questions_easy/*.h"
+    "./top_interview_questions_easy/*.cpp"
+)
+add_executable(main main.cpp ${TOP_INTERVIEW_QUESTIONS_EASY_FILES})

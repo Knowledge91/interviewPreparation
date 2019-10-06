@@ -1,4 +1,4 @@
-#include "./top_interview_questions_easy/shuffle_array.cpp"
+#include "./top_interview_questions_easy/bestTimeToBuyAndSellStockII.cpp"
 #include <iostream>
 #include <vector>
 
@@ -23,6 +23,7 @@ void print(std::vector<int> v) {
     }
   }
 }
+
 // void print(ListNode *node) {
 //   while (node->next != NULL) {
 //     ListNode *nextNode = node->next;
@@ -97,8 +98,9 @@ void print(std::vector<int> v) {
 int main() {
   std::vector<int> nums = {1, 2, 3, 4, 5};
 
-  Solution sol = Solution(nums);
-  print(sol.shuffle());
+  Solution sol = Solution();
+  sol.test();
+  // print(sol.shuffle());
 
   // Problem: Remove Duplicates from Array
   // std::vector<int> test = {1, 1, 2};
