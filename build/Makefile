@@ -420,6 +420,33 @@ top_interview_questions_easy/twoSum.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/twoSum.cpp.s
 .PHONY : top_interview_questions_easy/twoSum.cpp.s
 
+top_interview_questions_easy/validSudoku.o: top_interview_questions_easy/validSudoku.cpp.o
+
+.PHONY : top_interview_questions_easy/validSudoku.o
+
+# target to build an object file
+top_interview_questions_easy/validSudoku.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/validSudoku.cpp.o
+.PHONY : top_interview_questions_easy/validSudoku.cpp.o
+
+top_interview_questions_easy/validSudoku.i: top_interview_questions_easy/validSudoku.cpp.i
+
+.PHONY : top_interview_questions_easy/validSudoku.i
+
+# target to preprocess a source file
+top_interview_questions_easy/validSudoku.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/validSudoku.cpp.i
+.PHONY : top_interview_questions_easy/validSudoku.cpp.i
+
+top_interview_questions_easy/validSudoku.s: top_interview_questions_easy/validSudoku.cpp.s
+
+.PHONY : top_interview_questions_easy/validSudoku.s
+
+# target to generate assembly for a file
+top_interview_questions_easy/validSudoku.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/validSudoku.cpp.s
+.PHONY : top_interview_questions_easy/validSudoku.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -462,6 +489,9 @@ help:
 	@echo "... top_interview_questions_easy/twoSum.o"
 	@echo "... top_interview_questions_easy/twoSum.i"
 	@echo "... top_interview_questions_easy/twoSum.s"
+	@echo "... top_interview_questions_easy/validSudoku.o"
+	@echo "... top_interview_questions_easy/validSudoku.i"
+	@echo "... top_interview_questions_easy/validSudoku.s"
 .PHONY : help
 
 

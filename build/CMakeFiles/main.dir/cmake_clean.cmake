@@ -10,6 +10,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/top_interview_questions_easy/shuffle_array.cpp.o"
   "CMakeFiles/main.dir/top_interview_questions_easy/singleNumber.cpp.o"
   "CMakeFiles/main.dir/top_interview_questions_easy/twoSum.cpp.o"
+  "CMakeFiles/main.dir/top_interview_questions_easy/validSudoku.cpp.o"
   "main"
   "main.pdb"
 )
