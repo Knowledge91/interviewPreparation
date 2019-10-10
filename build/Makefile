@@ -177,6 +177,33 @@ top_interview_questions_easy/bestTimeToBuyAndSellStockII.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/bestTimeToBuyAndSellStockII.cpp.s
 .PHONY : top_interview_questions_easy/bestTimeToBuyAndSellStockII.cpp.s
 
+top_interview_questions_easy/containsDuplicate.o: top_interview_questions_easy/containsDuplicate.cpp.o
+
+.PHONY : top_interview_questions_easy/containsDuplicate.o
+
+# target to build an object file
+top_interview_questions_easy/containsDuplicate.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/containsDuplicate.cpp.o
+.PHONY : top_interview_questions_easy/containsDuplicate.cpp.o
+
+top_interview_questions_easy/containsDuplicate.i: top_interview_questions_easy/containsDuplicate.cpp.i
+
+.PHONY : top_interview_questions_easy/containsDuplicate.i
+
+# target to preprocess a source file
+top_interview_questions_easy/containsDuplicate.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/containsDuplicate.cpp.i
+.PHONY : top_interview_questions_easy/containsDuplicate.cpp.i
+
+top_interview_questions_easy/containsDuplicate.s: top_interview_questions_easy/containsDuplicate.cpp.s
+
+.PHONY : top_interview_questions_easy/containsDuplicate.s
+
+# target to generate assembly for a file
+top_interview_questions_easy/containsDuplicate.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/containsDuplicate.cpp.s
+.PHONY : top_interview_questions_easy/containsDuplicate.cpp.s
+
 top_interview_questions_easy/mergeSortedArray.o: top_interview_questions_easy/mergeSortedArray.cpp.o
 
 .PHONY : top_interview_questions_easy/mergeSortedArray.o
@@ -203,6 +230,33 @@ top_interview_questions_easy/mergeSortedArray.s: top_interview_questions_easy/me
 top_interview_questions_easy/mergeSortedArray.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/mergeSortedArray.cpp.s
 .PHONY : top_interview_questions_easy/mergeSortedArray.cpp.s
+
+top_interview_questions_easy/rotateArray.o: top_interview_questions_easy/rotateArray.cpp.o
+
+.PHONY : top_interview_questions_easy/rotateArray.o
+
+# target to build an object file
+top_interview_questions_easy/rotateArray.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.o
+.PHONY : top_interview_questions_easy/rotateArray.cpp.o
+
+top_interview_questions_easy/rotateArray.i: top_interview_questions_easy/rotateArray.cpp.i
+
+.PHONY : top_interview_questions_easy/rotateArray.i
+
+# target to preprocess a source file
+top_interview_questions_easy/rotateArray.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.i
+.PHONY : top_interview_questions_easy/rotateArray.cpp.i
+
+top_interview_questions_easy/rotateArray.s: top_interview_questions_easy/rotateArray.cpp.s
+
+.PHONY : top_interview_questions_easy/rotateArray.s
+
+# target to generate assembly for a file
+top_interview_questions_easy/rotateArray.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.s
+.PHONY : top_interview_questions_easy/rotateArray.cpp.s
 
 top_interview_questions_easy/shuffle_array.o: top_interview_questions_easy/shuffle_array.cpp.o
 
@@ -246,9 +300,15 @@ help:
 	@echo "... top_interview_questions_easy/bestTimeToBuyAndSellStockII.o"
 	@echo "... top_interview_questions_easy/bestTimeToBuyAndSellStockII.i"
 	@echo "... top_interview_questions_easy/bestTimeToBuyAndSellStockII.s"
+	@echo "... top_interview_questions_easy/containsDuplicate.o"
+	@echo "... top_interview_questions_easy/containsDuplicate.i"
+	@echo "... top_interview_questions_easy/containsDuplicate.s"
 	@echo "... top_interview_questions_easy/mergeSortedArray.o"
 	@echo "... top_interview_questions_easy/mergeSortedArray.i"
 	@echo "... top_interview_questions_easy/mergeSortedArray.s"
+	@echo "... top_interview_questions_easy/rotateArray.o"
+	@echo "... top_interview_questions_easy/rotateArray.i"
+	@echo "... top_interview_questions_easy/rotateArray.s"
 	@echo "... top_interview_questions_easy/shuffle_array.o"
 	@echo "... top_interview_questions_easy/shuffle_array.i"
 	@echo "... top_interview_questions_easy/shuffle_array.s"
