@@ -1,4 +1,4 @@
-#include "./top_interview_questions_easy/singleNumber.cpp"
+#include "./top_interview_questions_easy/plusOne.cpp"
 #include <iostream>
 #include <vector>
 

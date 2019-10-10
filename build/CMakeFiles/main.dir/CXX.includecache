@@ -7,17 +7,17 @@
 #IncludeRegexTransform: 
 
 /Users/knowledge/Developer/Tutorials/Cpp/main.cpp
-./top_interview_questions_easy/singleNumber.cpp
-/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/singleNumber.cpp
+./top_interview_questions_easy/plusOne.cpp
+/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/plusOne.cpp
 iostream
 -
 vector
 -
 
-/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/singleNumber.cpp
-iostream
+/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/plusOne.cpp
+cmath
 -
-unordered_map
+iostream
 -
 vector
 -
