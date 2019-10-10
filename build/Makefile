@@ -258,6 +258,33 @@ top_interview_questions_easy/mergeSortedArray.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/mergeSortedArray.cpp.s
 .PHONY : top_interview_questions_easy/mergeSortedArray.cpp.s
 
+top_interview_questions_easy/moveZeroes.o: top_interview_questions_easy/moveZeroes.cpp.o
+
+.PHONY : top_interview_questions_easy/moveZeroes.o
+
+# target to build an object file
+top_interview_questions_easy/moveZeroes.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/moveZeroes.cpp.o
+.PHONY : top_interview_questions_easy/moveZeroes.cpp.o
+
+top_interview_questions_easy/moveZeroes.i: top_interview_questions_easy/moveZeroes.cpp.i
+
+.PHONY : top_interview_questions_easy/moveZeroes.i
+
+# target to preprocess a source file
+top_interview_questions_easy/moveZeroes.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/moveZeroes.cpp.i
+.PHONY : top_interview_questions_easy/moveZeroes.cpp.i
+
+top_interview_questions_easy/moveZeroes.s: top_interview_questions_easy/moveZeroes.cpp.s
+
+.PHONY : top_interview_questions_easy/moveZeroes.s
+
+# target to generate assembly for a file
+top_interview_questions_easy/moveZeroes.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/moveZeroes.cpp.s
+.PHONY : top_interview_questions_easy/moveZeroes.cpp.s
+
 top_interview_questions_easy/plusOne.o: top_interview_questions_easy/plusOne.cpp.o
 
 .PHONY : top_interview_questions_easy/plusOne.o
@@ -390,6 +417,9 @@ help:
 	@echo "... top_interview_questions_easy/mergeSortedArray.o"
 	@echo "... top_interview_questions_easy/mergeSortedArray.i"
 	@echo "... top_interview_questions_easy/mergeSortedArray.s"
+	@echo "... top_interview_questions_easy/moveZeroes.o"
+	@echo "... top_interview_questions_easy/moveZeroes.i"
+	@echo "... top_interview_questions_easy/moveZeroes.s"
 	@echo "... top_interview_questions_easy/plusOne.o"
 	@echo "... top_interview_questions_easy/plusOne.i"
 	@echo "... top_interview_questions_easy/plusOne.s"

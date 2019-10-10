@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/top_interview_questions_easy/containsDuplicate.cpp.o"
   "CMakeFiles/main.dir/top_interview_questions_easy/intersectionOfTwoArrayII.cpp.o"
   "CMakeFiles/main.dir/top_interview_questions_easy/mergeSortedArray.cpp.o"
+  "CMakeFiles/main.dir/top_interview_questions_easy/moveZeroes.cpp.o"
   "CMakeFiles/main.dir/top_interview_questions_easy/plusOne.cpp.o"
   "CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.o"
   "CMakeFiles/main.dir/top_interview_questions_easy/shuffle_array.cpp.o"
