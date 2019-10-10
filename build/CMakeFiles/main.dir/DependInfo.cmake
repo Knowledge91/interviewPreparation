@@ -14,6 +14,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/rotateArray.cpp" "/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.o"
   "/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/shuffle_array.cpp" "/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles/main.dir/top_interview_questions_easy/shuffle_array.cpp.o"
   "/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/singleNumber.cpp" "/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles/main.dir/top_interview_questions_easy/singleNumber.cpp.o"
+  "/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/twoSum.cpp" "/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles/main.dir/top_interview_questions_easy/twoSum.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

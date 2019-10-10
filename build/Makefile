@@ -393,6 +393,33 @@ top_interview_questions_easy/singleNumber.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/singleNumber.cpp.s
 .PHONY : top_interview_questions_easy/singleNumber.cpp.s
 
+top_interview_questions_easy/twoSum.o: top_interview_questions_easy/twoSum.cpp.o
+
+.PHONY : top_interview_questions_easy/twoSum.o
+
+# target to build an object file
+top_interview_questions_easy/twoSum.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/twoSum.cpp.o
+.PHONY : top_interview_questions_easy/twoSum.cpp.o
+
+top_interview_questions_easy/twoSum.i: top_interview_questions_easy/twoSum.cpp.i
+
+.PHONY : top_interview_questions_easy/twoSum.i
+
+# target to preprocess a source file
+top_interview_questions_easy/twoSum.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/twoSum.cpp.i
+.PHONY : top_interview_questions_easy/twoSum.cpp.i
+
+top_interview_questions_easy/twoSum.s: top_interview_questions_easy/twoSum.cpp.s
+
+.PHONY : top_interview_questions_easy/twoSum.s
+
+# target to generate assembly for a file
+top_interview_questions_easy/twoSum.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/twoSum.cpp.s
+.PHONY : top_interview_questions_easy/twoSum.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -432,6 +459,9 @@ help:
 	@echo "... top_interview_questions_easy/singleNumber.o"
 	@echo "... top_interview_questions_easy/singleNumber.i"
 	@echo "... top_interview_questions_easy/singleNumber.s"
+	@echo "... top_interview_questions_easy/twoSum.o"
+	@echo "... top_interview_questions_easy/twoSum.i"
+	@echo "... top_interview_questions_easy/twoSum.s"
 .PHONY : help
 
 
