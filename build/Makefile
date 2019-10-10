@@ -285,6 +285,33 @@ top_interview_questions_easy/shuffle_array.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/shuffle_array.cpp.s
 .PHONY : top_interview_questions_easy/shuffle_array.cpp.s
 
+top_interview_questions_easy/singleNumber.o: top_interview_questions_easy/singleNumber.cpp.o
+
+.PHONY : top_interview_questions_easy/singleNumber.o
+
+# target to build an object file
+top_interview_questions_easy/singleNumber.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/singleNumber.cpp.o
+.PHONY : top_interview_questions_easy/singleNumber.cpp.o
+
+top_interview_questions_easy/singleNumber.i: top_interview_questions_easy/singleNumber.cpp.i
+
+.PHONY : top_interview_questions_easy/singleNumber.i
+
+# target to preprocess a source file
+top_interview_questions_easy/singleNumber.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/singleNumber.cpp.i
+.PHONY : top_interview_questions_easy/singleNumber.cpp.i
+
+top_interview_questions_easy/singleNumber.s: top_interview_questions_easy/singleNumber.cpp.s
+
+.PHONY : top_interview_questions_easy/singleNumber.s
+
+# target to generate assembly for a file
+top_interview_questions_easy/singleNumber.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/singleNumber.cpp.s
+.PHONY : top_interview_questions_easy/singleNumber.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -312,6 +339,9 @@ help:
 	@echo "... top_interview_questions_easy/shuffle_array.o"
 	@echo "... top_interview_questions_easy/shuffle_array.i"
 	@echo "... top_interview_questions_easy/shuffle_array.s"
+	@echo "... top_interview_questions_easy/singleNumber.o"
+	@echo "... top_interview_questions_easy/singleNumber.i"
+	@echo "... top_interview_questions_easy/singleNumber.s"
 .PHONY : help
 
 

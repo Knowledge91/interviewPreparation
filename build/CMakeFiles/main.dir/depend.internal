@@ -3,7 +3,7 @@
 
 CMakeFiles/main.dir/main.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/main.cpp
- /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/containsDuplicate.cpp
+ /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/singleNumber.cpp
 CMakeFiles/main.dir/top_interview_questions_easy/bestTimeToBuyAndSellStockII.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/bestTimeToBuyAndSellStockII.cpp
 CMakeFiles/main.dir/top_interview_questions_easy/containsDuplicate.cpp.o
@@ -14,3 +14,5 @@ CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/rotateArray.cpp
 CMakeFiles/main.dir/top_interview_questions_easy/shuffle_array.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/shuffle_array.cpp
+CMakeFiles/main.dir/top_interview_questions_easy/singleNumber.cpp.o
+ /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/singleNumber.cpp

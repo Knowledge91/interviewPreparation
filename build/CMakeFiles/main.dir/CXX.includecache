@@ -7,17 +7,17 @@
 #IncludeRegexTransform: 
 
 /Users/knowledge/Developer/Tutorials/Cpp/main.cpp
-./top_interview_questions_easy/containsDuplicate.cpp
-/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/containsDuplicate.cpp
+./top_interview_questions_easy/singleNumber.cpp
+/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/singleNumber.cpp
 iostream
 -
 vector
 -
 
-/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/containsDuplicate.cpp
+/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/singleNumber.cpp
 iostream
 -
-unordered_set
+unordered_map
 -
 vector
 -
