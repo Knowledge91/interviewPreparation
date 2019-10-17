@@ -204,6 +204,33 @@ top_interview_questions_easy/containsDuplicate.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/containsDuplicate.cpp.s
 .PHONY : top_interview_questions_easy/containsDuplicate.cpp.s
 
+top_interview_questions_easy/countAndSay.o: top_interview_questions_easy/countAndSay.cpp.o
+
+.PHONY : top_interview_questions_easy/countAndSay.o
+
+# target to build an object file
+top_interview_questions_easy/countAndSay.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/countAndSay.cpp.o
+.PHONY : top_interview_questions_easy/countAndSay.cpp.o
+
+top_interview_questions_easy/countAndSay.i: top_interview_questions_easy/countAndSay.cpp.i
+
+.PHONY : top_interview_questions_easy/countAndSay.i
+
+# target to preprocess a source file
+top_interview_questions_easy/countAndSay.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/countAndSay.cpp.i
+.PHONY : top_interview_questions_easy/countAndSay.cpp.i
+
+top_interview_questions_easy/countAndSay.s: top_interview_questions_easy/countAndSay.cpp.s
+
+.PHONY : top_interview_questions_easy/countAndSay.s
+
+# target to generate assembly for a file
+top_interview_questions_easy/countAndSay.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/countAndSay.cpp.s
+.PHONY : top_interview_questions_easy/countAndSay.cpp.s
+
 top_interview_questions_easy/firstUniqueCharacterInAString.o: top_interview_questions_easy/firstUniqueCharacterInAString.cpp.o
 
 .PHONY : top_interview_questions_easy/firstUniqueCharacterInAString.o
@@ -681,6 +708,9 @@ help:
 	@echo "... top_interview_questions_easy/containsDuplicate.o"
 	@echo "... top_interview_questions_easy/containsDuplicate.i"
 	@echo "... top_interview_questions_easy/containsDuplicate.s"
+	@echo "... top_interview_questions_easy/countAndSay.o"
+	@echo "... top_interview_questions_easy/countAndSay.i"
+	@echo "... top_interview_questions_easy/countAndSay.s"
 	@echo "... top_interview_questions_easy/firstUniqueCharacterInAString.o"
 	@echo "... top_interview_questions_easy/firstUniqueCharacterInAString.i"
 	@echo "... top_interview_questions_easy/firstUniqueCharacterInAString.s"
