@@ -231,6 +231,33 @@ top_interview_questions_easy/firstUniqueCharacterInAString.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/firstUniqueCharacterInAString.cpp.s
 .PHONY : top_interview_questions_easy/firstUniqueCharacterInAString.cpp.s
 
+top_interview_questions_easy/implementStrStr.o: top_interview_questions_easy/implementStrStr.cpp.o
+
+.PHONY : top_interview_questions_easy/implementStrStr.o
+
+# target to build an object file
+top_interview_questions_easy/implementStrStr.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/implementStrStr.cpp.o
+.PHONY : top_interview_questions_easy/implementStrStr.cpp.o
+
+top_interview_questions_easy/implementStrStr.i: top_interview_questions_easy/implementStrStr.cpp.i
+
+.PHONY : top_interview_questions_easy/implementStrStr.i
+
+# target to preprocess a source file
+top_interview_questions_easy/implementStrStr.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/implementStrStr.cpp.i
+.PHONY : top_interview_questions_easy/implementStrStr.cpp.i
+
+top_interview_questions_easy/implementStrStr.s: top_interview_questions_easy/implementStrStr.cpp.s
+
+.PHONY : top_interview_questions_easy/implementStrStr.s
+
+# target to generate assembly for a file
+top_interview_questions_easy/implementStrStr.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/implementStrStr.cpp.s
+.PHONY : top_interview_questions_easy/implementStrStr.cpp.s
+
 top_interview_questions_easy/intersectionOfTwoArrayII.o: top_interview_questions_easy/intersectionOfTwoArrayII.cpp.o
 
 .PHONY : top_interview_questions_easy/intersectionOfTwoArrayII.o
@@ -501,6 +528,33 @@ top_interview_questions_easy/singleNumber.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/singleNumber.cpp.s
 .PHONY : top_interview_questions_easy/singleNumber.cpp.s
 
+top_interview_questions_easy/stringToInteger.o: top_interview_questions_easy/stringToInteger.cpp.o
+
+.PHONY : top_interview_questions_easy/stringToInteger.o
+
+# target to build an object file
+top_interview_questions_easy/stringToInteger.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/stringToInteger.cpp.o
+.PHONY : top_interview_questions_easy/stringToInteger.cpp.o
+
+top_interview_questions_easy/stringToInteger.i: top_interview_questions_easy/stringToInteger.cpp.i
+
+.PHONY : top_interview_questions_easy/stringToInteger.i
+
+# target to preprocess a source file
+top_interview_questions_easy/stringToInteger.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/stringToInteger.cpp.i
+.PHONY : top_interview_questions_easy/stringToInteger.cpp.i
+
+top_interview_questions_easy/stringToInteger.s: top_interview_questions_easy/stringToInteger.cpp.s
+
+.PHONY : top_interview_questions_easy/stringToInteger.s
+
+# target to generate assembly for a file
+top_interview_questions_easy/stringToInteger.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/stringToInteger.cpp.s
+.PHONY : top_interview_questions_easy/stringToInteger.cpp.s
+
 top_interview_questions_easy/twoSum.o: top_interview_questions_easy/twoSum.cpp.o
 
 .PHONY : top_interview_questions_easy/twoSum.o
@@ -630,6 +684,9 @@ help:
 	@echo "... top_interview_questions_easy/firstUniqueCharacterInAString.o"
 	@echo "... top_interview_questions_easy/firstUniqueCharacterInAString.i"
 	@echo "... top_interview_questions_easy/firstUniqueCharacterInAString.s"
+	@echo "... top_interview_questions_easy/implementStrStr.o"
+	@echo "... top_interview_questions_easy/implementStrStr.i"
+	@echo "... top_interview_questions_easy/implementStrStr.s"
 	@echo "... top_interview_questions_easy/intersectionOfTwoArrayII.o"
 	@echo "... top_interview_questions_easy/intersectionOfTwoArrayII.i"
 	@echo "... top_interview_questions_easy/intersectionOfTwoArrayII.s"
@@ -660,6 +717,9 @@ help:
 	@echo "... top_interview_questions_easy/singleNumber.o"
 	@echo "... top_interview_questions_easy/singleNumber.i"
 	@echo "... top_interview_questions_easy/singleNumber.s"
+	@echo "... top_interview_questions_easy/stringToInteger.o"
+	@echo "... top_interview_questions_easy/stringToInteger.i"
+	@echo "... top_interview_questions_easy/stringToInteger.s"
 	@echo "... top_interview_questions_easy/twoSum.o"
 	@echo "... top_interview_questions_easy/twoSum.i"
 	@echo "... top_interview_questions_easy/twoSum.s"

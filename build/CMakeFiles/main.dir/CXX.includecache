@@ -7,18 +7,16 @@
 #IncludeRegexTransform: 
 
 /Users/knowledge/Developer/Tutorials/Cpp/main.cpp
-./top_interview_questions_easy/validPalindrome.cpp
-/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/validPalindrome.cpp
+./top_interview_questions_easy/implementStrStr.cpp
+/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/implementStrStr.cpp
 iostream
 -
 vector
 -
 
-/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/validPalindrome.cpp
-cctype
--
-iostream
--
+/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/implementStrStr.cpp
 string
+/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/string
+iostream
 -
 
