@@ -20,6 +20,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/singleNumber.cpp" "/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles/main.dir/top_interview_questions_easy/singleNumber.cpp.o"
   "/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/twoSum.cpp" "/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles/main.dir/top_interview_questions_easy/twoSum.cpp.o"
   "/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/validAnagram.cpp" "/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles/main.dir/top_interview_questions_easy/validAnagram.cpp.o"
+  "/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/validPalindrome.cpp" "/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles/main.dir/top_interview_questions_easy/validPalindrome.cpp.o"
   "/Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/validSudoku.cpp" "/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles/main.dir/top_interview_questions_easy/validSudoku.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")

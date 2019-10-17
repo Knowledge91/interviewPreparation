@@ -3,7 +3,7 @@
 
 CMakeFiles/main.dir/main.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/main.cpp
- /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/validAnagram.cpp
+ /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/validPalindrome.cpp
 CMakeFiles/main.dir/top_interview_questions_easy/bestTimeToBuyAndSellStockII.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/bestTimeToBuyAndSellStockII.cpp
 CMakeFiles/main.dir/top_interview_questions_easy/containsDuplicate.cpp.o
@@ -34,5 +34,7 @@ CMakeFiles/main.dir/top_interview_questions_easy/twoSum.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/twoSum.cpp
 CMakeFiles/main.dir/top_interview_questions_easy/validAnagram.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/validAnagram.cpp
+CMakeFiles/main.dir/top_interview_questions_easy/validPalindrome.cpp.o
+ /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/validPalindrome.cpp
 CMakeFiles/main.dir/top_interview_questions_easy/validSudoku.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/validSudoku.cpp

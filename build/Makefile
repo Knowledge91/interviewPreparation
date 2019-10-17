@@ -555,6 +555,33 @@ top_interview_questions_easy/validAnagram.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/validAnagram.cpp.s
 .PHONY : top_interview_questions_easy/validAnagram.cpp.s
 
+top_interview_questions_easy/validPalindrome.o: top_interview_questions_easy/validPalindrome.cpp.o
+
+.PHONY : top_interview_questions_easy/validPalindrome.o
+
+# target to build an object file
+top_interview_questions_easy/validPalindrome.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/validPalindrome.cpp.o
+.PHONY : top_interview_questions_easy/validPalindrome.cpp.o
+
+top_interview_questions_easy/validPalindrome.i: top_interview_questions_easy/validPalindrome.cpp.i
+
+.PHONY : top_interview_questions_easy/validPalindrome.i
+
+# target to preprocess a source file
+top_interview_questions_easy/validPalindrome.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/validPalindrome.cpp.i
+.PHONY : top_interview_questions_easy/validPalindrome.cpp.i
+
+top_interview_questions_easy/validPalindrome.s: top_interview_questions_easy/validPalindrome.cpp.s
+
+.PHONY : top_interview_questions_easy/validPalindrome.s
+
+# target to generate assembly for a file
+top_interview_questions_easy/validPalindrome.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/validPalindrome.cpp.s
+.PHONY : top_interview_questions_easy/validPalindrome.cpp.s
+
 top_interview_questions_easy/validSudoku.o: top_interview_questions_easy/validSudoku.cpp.o
 
 .PHONY : top_interview_questions_easy/validSudoku.o
@@ -639,6 +666,9 @@ help:
 	@echo "... top_interview_questions_easy/validAnagram.o"
 	@echo "... top_interview_questions_easy/validAnagram.i"
 	@echo "... top_interview_questions_easy/validAnagram.s"
+	@echo "... top_interview_questions_easy/validPalindrome.o"
+	@echo "... top_interview_questions_easy/validPalindrome.i"
+	@echo "... top_interview_questions_easy/validPalindrome.s"
 	@echo "... top_interview_questions_easy/validSudoku.o"
 	@echo "... top_interview_questions_easy/validSudoku.i"
 	@echo "... top_interview_questions_easy/validSudoku.s"
