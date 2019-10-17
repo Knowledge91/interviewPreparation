@@ -204,6 +204,33 @@ top_interview_questions_easy/containsDuplicate.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/containsDuplicate.cpp.s
 .PHONY : top_interview_questions_easy/containsDuplicate.cpp.s
 
+top_interview_questions_easy/firstUniqueCharacterInAString.o: top_interview_questions_easy/firstUniqueCharacterInAString.cpp.o
+
+.PHONY : top_interview_questions_easy/firstUniqueCharacterInAString.o
+
+# target to build an object file
+top_interview_questions_easy/firstUniqueCharacterInAString.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/firstUniqueCharacterInAString.cpp.o
+.PHONY : top_interview_questions_easy/firstUniqueCharacterInAString.cpp.o
+
+top_interview_questions_easy/firstUniqueCharacterInAString.i: top_interview_questions_easy/firstUniqueCharacterInAString.cpp.i
+
+.PHONY : top_interview_questions_easy/firstUniqueCharacterInAString.i
+
+# target to preprocess a source file
+top_interview_questions_easy/firstUniqueCharacterInAString.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/firstUniqueCharacterInAString.cpp.i
+.PHONY : top_interview_questions_easy/firstUniqueCharacterInAString.cpp.i
+
+top_interview_questions_easy/firstUniqueCharacterInAString.s: top_interview_questions_easy/firstUniqueCharacterInAString.cpp.s
+
+.PHONY : top_interview_questions_easy/firstUniqueCharacterInAString.s
+
+# target to generate assembly for a file
+top_interview_questions_easy/firstUniqueCharacterInAString.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/firstUniqueCharacterInAString.cpp.s
+.PHONY : top_interview_questions_easy/firstUniqueCharacterInAString.cpp.s
+
 top_interview_questions_easy/intersectionOfTwoArrayII.o: top_interview_questions_easy/intersectionOfTwoArrayII.cpp.o
 
 .PHONY : top_interview_questions_easy/intersectionOfTwoArrayII.o
@@ -311,6 +338,33 @@ top_interview_questions_easy/plusOne.s: top_interview_questions_easy/plusOne.cpp
 top_interview_questions_easy/plusOne.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/plusOne.cpp.s
 .PHONY : top_interview_questions_easy/plusOne.cpp.s
+
+top_interview_questions_easy/reverseInteger.o: top_interview_questions_easy/reverseInteger.cpp.o
+
+.PHONY : top_interview_questions_easy/reverseInteger.o
+
+# target to build an object file
+top_interview_questions_easy/reverseInteger.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/reverseInteger.cpp.o
+.PHONY : top_interview_questions_easy/reverseInteger.cpp.o
+
+top_interview_questions_easy/reverseInteger.i: top_interview_questions_easy/reverseInteger.cpp.i
+
+.PHONY : top_interview_questions_easy/reverseInteger.i
+
+# target to preprocess a source file
+top_interview_questions_easy/reverseInteger.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/reverseInteger.cpp.i
+.PHONY : top_interview_questions_easy/reverseInteger.cpp.i
+
+top_interview_questions_easy/reverseInteger.s: top_interview_questions_easy/reverseInteger.cpp.s
+
+.PHONY : top_interview_questions_easy/reverseInteger.s
+
+# target to generate assembly for a file
+top_interview_questions_easy/reverseInteger.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/reverseInteger.cpp.s
+.PHONY : top_interview_questions_easy/reverseInteger.cpp.s
 
 top_interview_questions_easy/reverseString.o: top_interview_questions_easy/reverseString.cpp.o
 
@@ -519,6 +573,9 @@ help:
 	@echo "... top_interview_questions_easy/containsDuplicate.o"
 	@echo "... top_interview_questions_easy/containsDuplicate.i"
 	@echo "... top_interview_questions_easy/containsDuplicate.s"
+	@echo "... top_interview_questions_easy/firstUniqueCharacterInAString.o"
+	@echo "... top_interview_questions_easy/firstUniqueCharacterInAString.i"
+	@echo "... top_interview_questions_easy/firstUniqueCharacterInAString.s"
 	@echo "... top_interview_questions_easy/intersectionOfTwoArrayII.o"
 	@echo "... top_interview_questions_easy/intersectionOfTwoArrayII.i"
 	@echo "... top_interview_questions_easy/intersectionOfTwoArrayII.s"
@@ -531,6 +588,9 @@ help:
 	@echo "... top_interview_questions_easy/plusOne.o"
 	@echo "... top_interview_questions_easy/plusOne.i"
 	@echo "... top_interview_questions_easy/plusOne.s"
+	@echo "... top_interview_questions_easy/reverseInteger.o"
+	@echo "... top_interview_questions_easy/reverseInteger.i"
+	@echo "... top_interview_questions_easy/reverseInteger.s"
 	@echo "... top_interview_questions_easy/reverseString.o"
 	@echo "... top_interview_questions_easy/reverseString.i"
 	@echo "... top_interview_questions_easy/reverseString.s"
