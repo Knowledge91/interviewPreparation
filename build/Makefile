@@ -312,6 +312,33 @@ top_interview_questions_easy/plusOne.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/plusOne.cpp.s
 .PHONY : top_interview_questions_easy/plusOne.cpp.s
 
+top_interview_questions_easy/reverseString.o: top_interview_questions_easy/reverseString.cpp.o
+
+.PHONY : top_interview_questions_easy/reverseString.o
+
+# target to build an object file
+top_interview_questions_easy/reverseString.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/reverseString.cpp.o
+.PHONY : top_interview_questions_easy/reverseString.cpp.o
+
+top_interview_questions_easy/reverseString.i: top_interview_questions_easy/reverseString.cpp.i
+
+.PHONY : top_interview_questions_easy/reverseString.i
+
+# target to preprocess a source file
+top_interview_questions_easy/reverseString.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/reverseString.cpp.i
+.PHONY : top_interview_questions_easy/reverseString.cpp.i
+
+top_interview_questions_easy/reverseString.s: top_interview_questions_easy/reverseString.cpp.s
+
+.PHONY : top_interview_questions_easy/reverseString.s
+
+# target to generate assembly for a file
+top_interview_questions_easy/reverseString.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/reverseString.cpp.s
+.PHONY : top_interview_questions_easy/reverseString.cpp.s
+
 top_interview_questions_easy/rotateArray.o: top_interview_questions_easy/rotateArray.cpp.o
 
 .PHONY : top_interview_questions_easy/rotateArray.o
@@ -338,6 +365,33 @@ top_interview_questions_easy/rotateArray.s: top_interview_questions_easy/rotateA
 top_interview_questions_easy/rotateArray.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.s
 .PHONY : top_interview_questions_easy/rotateArray.cpp.s
+
+top_interview_questions_easy/rotateImage.o: top_interview_questions_easy/rotateImage.cpp.o
+
+.PHONY : top_interview_questions_easy/rotateImage.o
+
+# target to build an object file
+top_interview_questions_easy/rotateImage.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/rotateImage.cpp.o
+.PHONY : top_interview_questions_easy/rotateImage.cpp.o
+
+top_interview_questions_easy/rotateImage.i: top_interview_questions_easy/rotateImage.cpp.i
+
+.PHONY : top_interview_questions_easy/rotateImage.i
+
+# target to preprocess a source file
+top_interview_questions_easy/rotateImage.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/rotateImage.cpp.i
+.PHONY : top_interview_questions_easy/rotateImage.cpp.i
+
+top_interview_questions_easy/rotateImage.s: top_interview_questions_easy/rotateImage.cpp.s
+
+.PHONY : top_interview_questions_easy/rotateImage.s
+
+# target to generate assembly for a file
+top_interview_questions_easy/rotateImage.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/rotateImage.cpp.s
+.PHONY : top_interview_questions_easy/rotateImage.cpp.s
 
 top_interview_questions_easy/shuffle_array.o: top_interview_questions_easy/shuffle_array.cpp.o
 
@@ -477,9 +531,15 @@ help:
 	@echo "... top_interview_questions_easy/plusOne.o"
 	@echo "... top_interview_questions_easy/plusOne.i"
 	@echo "... top_interview_questions_easy/plusOne.s"
+	@echo "... top_interview_questions_easy/reverseString.o"
+	@echo "... top_interview_questions_easy/reverseString.i"
+	@echo "... top_interview_questions_easy/reverseString.s"
 	@echo "... top_interview_questions_easy/rotateArray.o"
 	@echo "... top_interview_questions_easy/rotateArray.i"
 	@echo "... top_interview_questions_easy/rotateArray.s"
+	@echo "... top_interview_questions_easy/rotateImage.o"
+	@echo "... top_interview_questions_easy/rotateImage.i"
+	@echo "... top_interview_questions_easy/rotateImage.s"
 	@echo "... top_interview_questions_easy/shuffle_array.o"
 	@echo "... top_interview_questions_easy/shuffle_array.i"
 	@echo "... top_interview_questions_easy/shuffle_array.s"
