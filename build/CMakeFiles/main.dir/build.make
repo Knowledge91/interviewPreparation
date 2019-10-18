@@ -148,9 +148,22 @@ CMakeFiles/main.dir/top_interview_questions_easy/intersectionOfTwoArrayII.cpp.s:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/top_interview_questions_easy/intersectionOfTwoArrayII.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/intersectionOfTwoArrayII.cpp -o CMakeFiles/main.dir/top_interview_questions_easy/intersectionOfTwoArrayII.cpp.s
 
+CMakeFiles/main.dir/top_interview_questions_easy/longestCommonPrefix.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/top_interview_questions_easy/longestCommonPrefix.cpp.o: ../top_interview_questions_easy/longestCommonPrefix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/longestCommonPrefix.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/top_interview_questions_easy/longestCommonPrefix.cpp.o -c /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/longestCommonPrefix.cpp
+
+CMakeFiles/main.dir/top_interview_questions_easy/longestCommonPrefix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/top_interview_questions_easy/longestCommonPrefix.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/longestCommonPrefix.cpp > CMakeFiles/main.dir/top_interview_questions_easy/longestCommonPrefix.cpp.i
+
+CMakeFiles/main.dir/top_interview_questions_easy/longestCommonPrefix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/top_interview_questions_easy/longestCommonPrefix.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/longestCommonPrefix.cpp -o CMakeFiles/main.dir/top_interview_questions_easy/longestCommonPrefix.cpp.s
+
 CMakeFiles/main.dir/top_interview_questions_easy/mergeSortedArray.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/top_interview_questions_easy/mergeSortedArray.cpp.o: ../top_interview_questions_easy/mergeSortedArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/mergeSortedArray.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/mergeSortedArray.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/top_interview_questions_easy/mergeSortedArray.cpp.o -c /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/mergeSortedArray.cpp
 
 CMakeFiles/main.dir/top_interview_questions_easy/mergeSortedArray.cpp.i: cmake_force
@@ -163,7 +176,7 @@ CMakeFiles/main.dir/top_interview_questions_easy/mergeSortedArray.cpp.s: cmake_f
 
 CMakeFiles/main.dir/top_interview_questions_easy/moveZeroes.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/top_interview_questions_easy/moveZeroes.cpp.o: ../top_interview_questions_easy/moveZeroes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/moveZeroes.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/moveZeroes.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/top_interview_questions_easy/moveZeroes.cpp.o -c /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/moveZeroes.cpp
 
 CMakeFiles/main.dir/top_interview_questions_easy/moveZeroes.cpp.i: cmake_force
@@ -176,7 +189,7 @@ CMakeFiles/main.dir/top_interview_questions_easy/moveZeroes.cpp.s: cmake_force
 
 CMakeFiles/main.dir/top_interview_questions_easy/plusOne.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/top_interview_questions_easy/plusOne.cpp.o: ../top_interview_questions_easy/plusOne.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/plusOne.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/plusOne.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/top_interview_questions_easy/plusOne.cpp.o -c /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/plusOne.cpp
 
 CMakeFiles/main.dir/top_interview_questions_easy/plusOne.cpp.i: cmake_force
@@ -187,9 +200,22 @@ CMakeFiles/main.dir/top_interview_questions_easy/plusOne.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/top_interview_questions_easy/plusOne.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/plusOne.cpp -o CMakeFiles/main.dir/top_interview_questions_easy/plusOne.cpp.s
 
+CMakeFiles/main.dir/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp.o: ../top_interview_questions_easy/removeNthNodeFromEndOfList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp.o -c /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp
+
+CMakeFiles/main.dir/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp > CMakeFiles/main.dir/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp.i
+
+CMakeFiles/main.dir/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp -o CMakeFiles/main.dir/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp.s
+
 CMakeFiles/main.dir/top_interview_questions_easy/reverseInteger.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/top_interview_questions_easy/reverseInteger.cpp.o: ../top_interview_questions_easy/reverseInteger.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/reverseInteger.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/reverseInteger.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/top_interview_questions_easy/reverseInteger.cpp.o -c /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/reverseInteger.cpp
 
 CMakeFiles/main.dir/top_interview_questions_easy/reverseInteger.cpp.i: cmake_force
@@ -202,7 +228,7 @@ CMakeFiles/main.dir/top_interview_questions_easy/reverseInteger.cpp.s: cmake_for
 
 CMakeFiles/main.dir/top_interview_questions_easy/reverseString.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/top_interview_questions_easy/reverseString.cpp.o: ../top_interview_questions_easy/reverseString.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/reverseString.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/reverseString.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/top_interview_questions_easy/reverseString.cpp.o -c /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/reverseString.cpp
 
 CMakeFiles/main.dir/top_interview_questions_easy/reverseString.cpp.i: cmake_force
@@ -215,7 +241,7 @@ CMakeFiles/main.dir/top_interview_questions_easy/reverseString.cpp.s: cmake_forc
 
 CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.o: ../top_interview_questions_easy/rotateArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.o -c /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/rotateArray.cpp
 
 CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.i: cmake_force
@@ -228,7 +254,7 @@ CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.s: cmake_force
 
 CMakeFiles/main.dir/top_interview_questions_easy/rotateImage.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/top_interview_questions_easy/rotateImage.cpp.o: ../top_interview_questions_easy/rotateImage.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/rotateImage.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/rotateImage.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/top_interview_questions_easy/rotateImage.cpp.o -c /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/rotateImage.cpp
 
 CMakeFiles/main.dir/top_interview_questions_easy/rotateImage.cpp.i: cmake_force
@@ -241,7 +267,7 @@ CMakeFiles/main.dir/top_interview_questions_easy/rotateImage.cpp.s: cmake_force
 
 CMakeFiles/main.dir/top_interview_questions_easy/shuffle_array.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/top_interview_questions_easy/shuffle_array.cpp.o: ../top_interview_questions_easy/shuffle_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/shuffle_array.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/shuffle_array.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/top_interview_questions_easy/shuffle_array.cpp.o -c /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/shuffle_array.cpp
 
 CMakeFiles/main.dir/top_interview_questions_easy/shuffle_array.cpp.i: cmake_force
@@ -254,7 +280,7 @@ CMakeFiles/main.dir/top_interview_questions_easy/shuffle_array.cpp.s: cmake_forc
 
 CMakeFiles/main.dir/top_interview_questions_easy/singleNumber.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/top_interview_questions_easy/singleNumber.cpp.o: ../top_interview_questions_easy/singleNumber.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/singleNumber.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/singleNumber.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/top_interview_questions_easy/singleNumber.cpp.o -c /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/singleNumber.cpp
 
 CMakeFiles/main.dir/top_interview_questions_easy/singleNumber.cpp.i: cmake_force
@@ -267,7 +293,7 @@ CMakeFiles/main.dir/top_interview_questions_easy/singleNumber.cpp.s: cmake_force
 
 CMakeFiles/main.dir/top_interview_questions_easy/stringToInteger.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/top_interview_questions_easy/stringToInteger.cpp.o: ../top_interview_questions_easy/stringToInteger.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/stringToInteger.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/stringToInteger.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/top_interview_questions_easy/stringToInteger.cpp.o -c /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/stringToInteger.cpp
 
 CMakeFiles/main.dir/top_interview_questions_easy/stringToInteger.cpp.i: cmake_force
@@ -280,7 +306,7 @@ CMakeFiles/main.dir/top_interview_questions_easy/stringToInteger.cpp.s: cmake_fo
 
 CMakeFiles/main.dir/top_interview_questions_easy/twoSum.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/top_interview_questions_easy/twoSum.cpp.o: ../top_interview_questions_easy/twoSum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/twoSum.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/twoSum.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/top_interview_questions_easy/twoSum.cpp.o -c /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/twoSum.cpp
 
 CMakeFiles/main.dir/top_interview_questions_easy/twoSum.cpp.i: cmake_force
@@ -293,7 +319,7 @@ CMakeFiles/main.dir/top_interview_questions_easy/twoSum.cpp.s: cmake_force
 
 CMakeFiles/main.dir/top_interview_questions_easy/validAnagram.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/top_interview_questions_easy/validAnagram.cpp.o: ../top_interview_questions_easy/validAnagram.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/validAnagram.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/validAnagram.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/top_interview_questions_easy/validAnagram.cpp.o -c /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/validAnagram.cpp
 
 CMakeFiles/main.dir/top_interview_questions_easy/validAnagram.cpp.i: cmake_force
@@ -306,7 +332,7 @@ CMakeFiles/main.dir/top_interview_questions_easy/validAnagram.cpp.s: cmake_force
 
 CMakeFiles/main.dir/top_interview_questions_easy/validPalindrome.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/top_interview_questions_easy/validPalindrome.cpp.o: ../top_interview_questions_easy/validPalindrome.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/validPalindrome.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/validPalindrome.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/top_interview_questions_easy/validPalindrome.cpp.o -c /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/validPalindrome.cpp
 
 CMakeFiles/main.dir/top_interview_questions_easy/validPalindrome.cpp.i: cmake_force
@@ -319,7 +345,7 @@ CMakeFiles/main.dir/top_interview_questions_easy/validPalindrome.cpp.s: cmake_fo
 
 CMakeFiles/main.dir/top_interview_questions_easy/validSudoku.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/top_interview_questions_easy/validSudoku.cpp.o: ../top_interview_questions_easy/validSudoku.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/validSudoku.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/main.dir/top_interview_questions_easy/validSudoku.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/top_interview_questions_easy/validSudoku.cpp.o -c /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/validSudoku.cpp
 
 CMakeFiles/main.dir/top_interview_questions_easy/validSudoku.cpp.i: cmake_force
@@ -339,9 +365,11 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/top_interview_questions_easy/firstUniqueCharacterInAString.cpp.o" \
 "CMakeFiles/main.dir/top_interview_questions_easy/implementStrStr.cpp.o" \
 "CMakeFiles/main.dir/top_interview_questions_easy/intersectionOfTwoArrayII.cpp.o" \
+"CMakeFiles/main.dir/top_interview_questions_easy/longestCommonPrefix.cpp.o" \
 "CMakeFiles/main.dir/top_interview_questions_easy/mergeSortedArray.cpp.o" \
 "CMakeFiles/main.dir/top_interview_questions_easy/moveZeroes.cpp.o" \
 "CMakeFiles/main.dir/top_interview_questions_easy/plusOne.cpp.o" \
+"CMakeFiles/main.dir/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp.o" \
 "CMakeFiles/main.dir/top_interview_questions_easy/reverseInteger.cpp.o" \
 "CMakeFiles/main.dir/top_interview_questions_easy/reverseString.cpp.o" \
 "CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.o" \
@@ -364,9 +392,11 @@ main: CMakeFiles/main.dir/top_interview_questions_easy/countAndSay.cpp.o
 main: CMakeFiles/main.dir/top_interview_questions_easy/firstUniqueCharacterInAString.cpp.o
 main: CMakeFiles/main.dir/top_interview_questions_easy/implementStrStr.cpp.o
 main: CMakeFiles/main.dir/top_interview_questions_easy/intersectionOfTwoArrayII.cpp.o
+main: CMakeFiles/main.dir/top_interview_questions_easy/longestCommonPrefix.cpp.o
 main: CMakeFiles/main.dir/top_interview_questions_easy/mergeSortedArray.cpp.o
 main: CMakeFiles/main.dir/top_interview_questions_easy/moveZeroes.cpp.o
 main: CMakeFiles/main.dir/top_interview_questions_easy/plusOne.cpp.o
+main: CMakeFiles/main.dir/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp.o
 main: CMakeFiles/main.dir/top_interview_questions_easy/reverseInteger.cpp.o
 main: CMakeFiles/main.dir/top_interview_questions_easy/reverseString.cpp.o
 main: CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.o
@@ -380,7 +410,7 @@ main: CMakeFiles/main.dir/top_interview_questions_easy/validPalindrome.cpp.o
 main: CMakeFiles/main.dir/top_interview_questions_easy/validSudoku.cpp.o
 main: CMakeFiles/main.dir/build.make
 main: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking CXX executable main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/knowledge/Developer/Tutorials/Cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking CXX executable main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

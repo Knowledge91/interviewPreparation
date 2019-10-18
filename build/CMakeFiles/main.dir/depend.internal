@@ -3,7 +3,7 @@
 
 CMakeFiles/main.dir/main.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/main.cpp
- /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/countAndSay.cpp
+ /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp
 CMakeFiles/main.dir/top_interview_questions_easy/bestTimeToBuyAndSellStockII.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/bestTimeToBuyAndSellStockII.cpp
 CMakeFiles/main.dir/top_interview_questions_easy/containsDuplicate.cpp.o
@@ -16,12 +16,16 @@ CMakeFiles/main.dir/top_interview_questions_easy/implementStrStr.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/implementStrStr.cpp
 CMakeFiles/main.dir/top_interview_questions_easy/intersectionOfTwoArrayII.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/intersectionOfTwoArrayII.cpp
+CMakeFiles/main.dir/top_interview_questions_easy/longestCommonPrefix.cpp.o
+ /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/longestCommonPrefix.cpp
 CMakeFiles/main.dir/top_interview_questions_easy/mergeSortedArray.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/mergeSortedArray.cpp
 CMakeFiles/main.dir/top_interview_questions_easy/moveZeroes.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/moveZeroes.cpp
 CMakeFiles/main.dir/top_interview_questions_easy/plusOne.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/plusOne.cpp
+CMakeFiles/main.dir/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp.o
+ /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp
 CMakeFiles/main.dir/top_interview_questions_easy/reverseInteger.cpp.o
  /Users/knowledge/Developer/Tutorials/Cpp/top_interview_questions_easy/reverseInteger.cpp
 CMakeFiles/main.dir/top_interview_questions_easy/reverseString.cpp.o
