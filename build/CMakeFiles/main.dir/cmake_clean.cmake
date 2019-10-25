@@ -13,6 +13,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/top_interview_questions_easy/removeNthNodeFromEndOfList.cpp.o"
   "CMakeFiles/main.dir/top_interview_questions_easy/reverseInteger.cpp.o"
   "CMakeFiles/main.dir/top_interview_questions_easy/reverseString.cpp.o"
+  "CMakeFiles/main.dir/top_interview_questions_easy/reverse_linked_list.cpp.o"
   "CMakeFiles/main.dir/top_interview_questions_easy/rotateArray.cpp.o"
   "CMakeFiles/main.dir/top_interview_questions_easy/rotateImage.cpp.o"
   "CMakeFiles/main.dir/top_interview_questions_easy/shuffle_array.cpp.o"

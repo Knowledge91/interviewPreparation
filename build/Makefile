@@ -501,6 +501,33 @@ top_interview_questions_easy/reverseString.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/reverseString.cpp.s
 .PHONY : top_interview_questions_easy/reverseString.cpp.s
 
+top_interview_questions_easy/reverse_linked_list.o: top_interview_questions_easy/reverse_linked_list.cpp.o
+
+.PHONY : top_interview_questions_easy/reverse_linked_list.o
+
+# target to build an object file
+top_interview_questions_easy/reverse_linked_list.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/reverse_linked_list.cpp.o
+.PHONY : top_interview_questions_easy/reverse_linked_list.cpp.o
+
+top_interview_questions_easy/reverse_linked_list.i: top_interview_questions_easy/reverse_linked_list.cpp.i
+
+.PHONY : top_interview_questions_easy/reverse_linked_list.i
+
+# target to preprocess a source file
+top_interview_questions_easy/reverse_linked_list.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/reverse_linked_list.cpp.i
+.PHONY : top_interview_questions_easy/reverse_linked_list.cpp.i
+
+top_interview_questions_easy/reverse_linked_list.s: top_interview_questions_easy/reverse_linked_list.cpp.s
+
+.PHONY : top_interview_questions_easy/reverse_linked_list.s
+
+# target to generate assembly for a file
+top_interview_questions_easy/reverse_linked_list.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/top_interview_questions_easy/reverse_linked_list.cpp.s
+.PHONY : top_interview_questions_easy/reverse_linked_list.cpp.s
+
 top_interview_questions_easy/rotateArray.o: top_interview_questions_easy/rotateArray.cpp.o
 
 .PHONY : top_interview_questions_easy/rotateArray.o
@@ -795,6 +822,9 @@ help:
 	@echo "... top_interview_questions_easy/reverseString.o"
 	@echo "... top_interview_questions_easy/reverseString.i"
 	@echo "... top_interview_questions_easy/reverseString.s"
+	@echo "... top_interview_questions_easy/reverse_linked_list.o"
+	@echo "... top_interview_questions_easy/reverse_linked_list.i"
+	@echo "... top_interview_questions_easy/reverse_linked_list.s"
 	@echo "... top_interview_questions_easy/rotateArray.o"
 	@echo "... top_interview_questions_easy/rotateArray.i"
 	@echo "... top_interview_questions_easy/rotateArray.s"
