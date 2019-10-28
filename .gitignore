@@ -1,2 +1,6 @@
 *~
 build
+Debug
+cpp.code-workspace
+.vscode
+.DS_Store
