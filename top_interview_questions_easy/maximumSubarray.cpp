@@ -16,6 +16,6 @@ public:
   }
   void test() {
     std::vector<int> vec = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
-    std::cout << maxSubarray(vec);
+    std::cout << maxSubArray(vec);
   }
 };
