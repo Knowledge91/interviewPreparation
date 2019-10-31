@@ -3,8 +3,8 @@
 
 class MinStack {
 private:
-  stack<int> s1;
-  stack<int> s2;
+  std::stack<int> s1;
+  std::stack<int> s2;
 
 public:
   void push(int x) {
